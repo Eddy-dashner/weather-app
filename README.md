@@ -15,7 +15,7 @@
   <p align="center">
     Weather application used to show forecast from OpenWeather API.
     <br />
-    <a href="https://y-elv.github.io/weather-App/"><strong>View Demo</strong></a>
+    <a href="https://eddy-dashner.github.io/weather-app/"><strong>View Demo</strong></a>
   </p>
 </div>
 
@@ -63,44 +63,7 @@ Learning project from [The Odin Project](https://www.theodinproject.com/lessons/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-You will need `Node.js` and `npm` installed globally on your machine.
-* [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-
-### Installation
-
-1. Get a free API key at [https://openweathermap.com](https://openweathermap.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Y-elv/weather-App.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API key in `./src/api.js`
-   ```js
-   const API_KEY = 'YOUR API KEY';
-   ```
-5. Build an app
-   ```sh
-   npm run build
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-## Usage
-
-* Open `./dist/index.html` file with browser.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
 <!-- OUTCOME -->
 ## Outcome
@@ -123,17 +86,10 @@ You will need `Node.js` and `npm` installed globally on your machine.
 <!-- AUTHORS -->
 ## Authors
 
-[Elvis](https://github.com/Y-elv) - [LinkedIn]() - Mugishaelvis456@gmail.com
+[Elvis](https://github.com/Eddy-dashner) - [LinkedIn]() - @eddynzobarinda
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* [The Odin Project](https://www.theodinproject.com/)
-* [CSS-Tricks](https://css-tricks.com/)
-
-
-<p align="right">(<a href="#top">back to top https://github.com/Y-elv/weather-App/</a>)</p>
