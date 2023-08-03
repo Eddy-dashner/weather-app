@@ -1,7 +1,7 @@
 :root {
-  --blue: #313336;
-  --light-blue: #3a6b9c;
-  --dark-blue: #0e2d44;
+  --white: #ffffff;
+  --blue: #3a6b9c;
+  --black: #000000;
   --white: #ffffff;
   --transparent-white: rgba(255, 255, 255, 0.5);
   --warning-green: #7eb356;
@@ -23,11 +23,12 @@ body {
   font-weight: 700;
   font-size: 16px;
   color: var(--white);
-  background-color: var(--blue);
-  background: var(--blue);
-  background: -webkit-linear-gradient(top, var(--light-blue), var(--blue));
-  background: -moz-linear-gradient(top, var(--light-blue), var(--blue));
-  background: linear-gradient(to bottom, var(--light-blue), var(--blue));
+
+  /* Create the background gradient using only blue and black */
+  background: -webkit-linear-gradient(top, var(--blue), var(--black));
+  background: -moz-linear-gradient(top, var(--blue), var(--black));
+  background: linear-gradient(to bottom, var(--blue), var(--black));
+
 }
 
 .wrapper {

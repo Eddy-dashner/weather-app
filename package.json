@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Y-elv/weather-App.git"
+    "url": "git+https://github.com/Eddy-dashner/weather-app.git"
   },
-  "author": "Elvis",
+  "author": "Eddy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Y-elv/weather-App/issues"
+    "url": "https://github.com/Eddy-dashner/weather-app/issues"
   },
-  "homepage": "https://github.com/Y-elv/weather-App#readme",
+  "homepage": "https://github.com/Eddy-dashner/weather-app#readme",
   "devDependencies": {
     "eslint": "^8.24.0",
     "eslint-config-airbnb-base": "^15.0.0",
