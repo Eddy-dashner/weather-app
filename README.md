@@ -86,7 +86,7 @@ These instructions will get you a copy of the project up and running on your loc
 <!-- AUTHORS -->
 ## Authors
 
-[Elvis](https://github.com/Eddy-dashner) - [LinkedIn]() - @eddynzobarinda
+[Eddy](https://github.com/Eddy-dashner) - [LinkedIn]() - @eddynzobarinda
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
