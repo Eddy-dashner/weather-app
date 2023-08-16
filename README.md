@@ -77,7 +77,6 @@ These instructions will get you a copy of the project up and running on your loc
 * Used Git and GitHub for project management.
 * Learned error handling a bit.
 * Tried to maintain clean code.
-* Cross tested on Firefox and Chromium based browsers.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
